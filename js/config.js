@@ -117,11 +117,11 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://www.youtube.com/watch?v=q_pAa9252Uo", name: "Warthog Run"},
-	{youtube: "https://www.youtube.com/watch?v=SBjKWKN6jaI", name: "We will Never forget..."},
-	{youtube: "https://www.youtube.com/watch?v=NI1mWW496WY", name: "Follow our brothers"},
-	{youtube: "https://www.youtube.com/watch?v=bPU-RgjpKak", name: "This Is Our Land and We will defend it!"},
-	{youtube: "https://www.youtube.com/watch?v=qRNnQY0IIZs", name: "Released"},
+	{url: "halo1.ogg", name: "Warthog Run"},
+	{url: "halo2.ogg", name: "We will Never forget..."},
+	{url: "halo3.ogg", name: "Follow our brothers"},
+	{url: "halo4.ogg", name: "This Is Our Land and We will defend it!"},
+	{url: "halo5.ogg", name: "Released"},
 ];
 
 // Random music order?
