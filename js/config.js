@@ -121,7 +121,7 @@ var l_musicPlaylist = [
 	{url: "halo2.ogg", name: "We will Never forget..."},
 	{url: "halo3.ogg", name: "Follow our brothers"},
 	{url: "halo4.ogg", name: "This Is Our Land and We will defend it!"},
-	{url: "halo5.ogg", name: "Released"},
+	{url: "halo5.ogg", name: "Released"}
 ];
 
 // Random music order?
